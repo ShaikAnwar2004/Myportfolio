@@ -6,8 +6,8 @@ It is designed with a clean UI, responsive layout, and smooth animations — ful
 ---
 
 ## 🚀 Live Demo  
-🔗 *Coming Soon (GitHub Pages / Vercel)*  
-*(You can ask me to help deploy it!)*
+🔗 **https://myportfolio-eta-blue-85.vercel.app/**  
+*(Hosted on Vercel)*
 
 ---
 
